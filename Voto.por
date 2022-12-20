@@ -16,7 +16,7 @@ programa
 		se(idade >= 65)
 			escreva("A pessoa está apta a votar e o voto é obrigatório")
 
-		se(idade <16)
+		senao
 			escreva("A pessoa não está apta a votar")
 	}
 }
@@ -25,7 +25,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 388; 
+ * @POSICAO-CURSOR = 379; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
